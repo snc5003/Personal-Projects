@@ -1,0 +1,6 @@
+@Sous_Chef_App_EF_Core___JS_HostAddress = http://localhost:5218
+
+GET {{Sous_Chef_App_EF_Core___JS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
