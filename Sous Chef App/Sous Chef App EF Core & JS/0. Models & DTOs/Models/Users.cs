@@ -9,6 +9,8 @@ public class Users
     public string lastName {get; set;}
     public DateOnly birthday {get; set;}
     public int zipCode {get; set;}
+    public int glutenFree {get; set;}
+    public int dairyFree {get; set;} // a scale of how dairy free they are
     
     public Users(){}
 
